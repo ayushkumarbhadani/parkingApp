@@ -84,7 +84,7 @@ function App() {
         <nav className='nav'>
           <IoCarSport onClick={() => setCurrentScreen(currentScreenConstants.HOME)} />
           <FaSearch onClick={() => setCurrentScreen(currentScreenConstants.SEARCH)} />
-          <FaPlus onClick={() => setCurrentScreen(currentScreenConstants.HOME)} />
+          {/* <FaPlus onClick={() => setCurrentScreen(currentScreenConstants.HOME)} /> */}
         </nav>
 
         <main>

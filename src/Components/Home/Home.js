@@ -9,10 +9,10 @@ const Home = (props) => {
             </header>
             <section className='homeCardDetails'>
                 <div className='card'>
-                    Available Cars: 50
+                    Available Cars: 2
                 </div>
                 <div className='card'>
-                    Cars out of Garage:20
+                    Cars out of Garage: 1
                 </div>
                 <div className='card'>
                     Total Registered Cars: {Object.keys(props.data).length}
