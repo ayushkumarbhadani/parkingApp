@@ -55,7 +55,7 @@ function App() {
       vehicleNumber:'532 323 432',
       checkInOut: [
         {
-          checkIn: '07:00 AM'
+          checkIn: 'Wed Nov 02 2022 23:43:32 GMT+0530 (India Standard Time)'
         }
       ]
     },
