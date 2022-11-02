@@ -27,7 +27,7 @@ function App() {
   const TotalSlotSize = 100;
   const [data, setData] = useState({
     '532 323 321': {
-      driverName: 'Ankit Kumar',
+      driverName: 'Sumit Kumar',
       vehicleType: 'SUV',
       isElectric: true,
       status: `In Garage`,
@@ -60,7 +60,7 @@ function App() {
       ]
     },
     '532 323 431': {
-      driverName: 'Ankit Kumar',
+      driverName: 'Ajay Kumar',
       vehicleType: 'SUV',
       isElectric: true,
       status: `In Garage`,

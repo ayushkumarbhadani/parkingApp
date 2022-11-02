@@ -38,11 +38,11 @@ const Search = (props) => {
             <section className='searchbox'>
                 <div className='searchboxInnerWrapper'>
                     <label>Enter Vehicle Number:</label>
-                    <input type="search" className='searchCar' placeholder="Enter Vehicle Number" ref={vehicleNumberRef} onFocus={hideMsg}/>
+                    <input type="search" className='searchCar' placeholder="Enter Vehicle Number" ref={vehicleNumberRef} onFocus={hideMsg} value='532 323 432'/>
                 </div>
                 <div className='searchboxInnerWrapper'>
                     <label>Enter Vehicle Driver Name:</label>
-                    <input type="search" className='searchCar' placeholder="Enter Vehicle Driver Name" ref={vehicleDriverRef} onFocus={hideMsg}/>
+                    <input type="search" className='searchCar' placeholder="Enter Vehicle Driver Name" ref={vehicleDriverRef} onFocus={hideMsg} value="Ankit Kumar"/>
                 </div>
                 <div className='searchboxInnerWrapper'>
                     <button onClick={handleSearch}>Search</button>
