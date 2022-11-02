@@ -1,0 +1,46 @@
+.searchbox{
+    height: calc(100vh - 10rem);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+.searchboxInnerWrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+.searchCar{
+    width: 300px;
+    height: 50px;
+    border: none;
+    padding: 0 1rem;
+    box-sizing: border-box;
+    outline: none;
+    font-size: 1rem;
+}
+.searchbox button{
+    width: 300px;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color: gold;
+    color: #333;
+    font-weight: bold;
+    gap: 2rem;
+}
+.errorMsg{
+    opacity: 0;
+    font-weight: bold;
+    color: #ff0000;
+    font-size: 1.5rem;
+}
