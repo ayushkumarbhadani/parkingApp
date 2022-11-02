@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/parkingApp/static/css/main.14c38eeb.css",
-    "main.js": "/parkingApp/static/js/main.a1790b4f.js",
+    "main.js": "/parkingApp/static/js/main.d979bf0a.js",
     "static/js/787.14b69d49.chunk.js": "/parkingApp/static/js/787.14b69d49.chunk.js",
     "static/media/car-loading.gif": "/parkingApp/static/media/car-loading.6d01d9e73a4d8a2c678e.gif",
     "index.html": "/parkingApp/index.html",
     "main.14c38eeb.css.map": "/parkingApp/static/css/main.14c38eeb.css.map",
-    "main.a1790b4f.js.map": "/parkingApp/static/js/main.a1790b4f.js.map",
+    "main.d979bf0a.js.map": "/parkingApp/static/js/main.d979bf0a.js.map",
     "787.14b69d49.chunk.js.map": "/parkingApp/static/js/787.14b69d49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14c38eeb.css",
-    "static/js/main.a1790b4f.js"
+    "static/js/main.d979bf0a.js"
   ]
 }
